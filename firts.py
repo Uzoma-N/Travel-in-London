@@ -8,3 +8,6 @@ def name():
 
 def additin():
     return
+
+def new_dir():
+    return
